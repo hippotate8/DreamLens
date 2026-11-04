@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://xn--2q1b6sq0fm4b17a026c.com/sitemap.xml
+#DaumWebMasterTool:dea23fb249289f86ae4e0ecacde1c4eba441554f86e5bc85608c323a3edf3967:ObU+sFQzTvdXbIlCz16kkg==
